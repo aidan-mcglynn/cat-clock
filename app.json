@@ -4,7 +4,7 @@
     "slug": "catClock",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./app/assets/images/cat.png",
+    "icon": "./app/assets/images/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./app/assets/images/splash.png",
